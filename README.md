@@ -1,6 +1,6 @@
 # Snake-Game
 
-Simple snake game in 200 lines. I used Java Swing library for the ui.
+Simple snake game in java. I used Swing library for the ui.
 
 Rules: 
 
