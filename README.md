@@ -10,7 +10,7 @@ ii) If you touch the edge of the screen, you die.
 
 iii) For each apple you eat, your size increments by 1.
 
-iv) For each 5 apples you eat, the snake becomes faster.
+iv) For each 5 apples you eat, the snake gets faster.
 
 Game Screen:
 
